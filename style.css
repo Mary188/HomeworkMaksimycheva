@@ -1,0 +1,17 @@
+nav li {
+  list-style-type: none;
+  display: inline-block;
+  margin: 7px;
+  font-style:normal;
+  margin: auto;
+}
+
+
+body{
+ background-color: #D4E6B3;
+ background-image: url(img/fon.jpg);
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+ background-size: cover;
+ font-family: monospace;
+}
